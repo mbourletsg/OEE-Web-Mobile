@@ -6,3 +6,7 @@ Thanks
 ## Support
 Feel free to reach us by email :
 gauderic.blondel@saint-gobain.com
+
+## Privacy Policy
+
+See [Saint-Gobain Privacy Policy](https://www.saint-gobain.com/en/privacy-policy)
