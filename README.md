@@ -1,4 +1,4 @@
-# oeewebmobilelanding
+# OEE Web Mobile
 Welcome on OEE Web Mobile Landing page
 
 To contact our support please reach us by email :
