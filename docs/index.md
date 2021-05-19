@@ -1,4 +1,4 @@
-## <img src="imgs/logo_oee.png" alt="logo oee" width="50" />  Welcome on OEE Web Mobile page
+## <img src="imgs/logo_oee.png" alt="logo oee" width="50" style="vertical-align:middle" />  Welcome on OEE Web Mobile page
 
 You are welcomed to contact us for any suggestions or bugs encountered on OEE Web Mobile applications.
 Thanks
