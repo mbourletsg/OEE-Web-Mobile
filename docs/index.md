@@ -1,11 +1,12 @@
-## <img src="imgs/logo_oee.png" alt="logo oee" width="50" style="vertical-align:middle" />  Welcome on OEE Web Mobile page
+Welcome on OEE Web Mobile & Digital PCS page
 
-You are welcomed to contact us for any suggestions or bugs encountered on OEE Web Mobile applications.
+You are welcomed to contact us for any suggestions or bugs encountered on OEE Web Mobile or Digital PCS applications.
 Thanks
 
 ## Support
 Feel free to reach us by email :
-gauderic.blondel@saint-gobain.com
+gauderic.blondel@saint-gobain.com for OEE
+antoine.fercot@saint-gobain.com for PCS
 
 ## Privacy Policy
 
