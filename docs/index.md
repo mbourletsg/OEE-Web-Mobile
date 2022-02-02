@@ -4,9 +4,9 @@ You are welcomed to contact us for any suggestions or bugs encountered on OEE We
 Thanks
 
 ## Support
-Feel free to reach us by email :
-gauderic.blondel@saint-gobain.com for OEE  
-antoine.fercot@saint-gobain.com for PCS
+Feel free to reach us by email :  
+- gauderic.blondel@saint-gobain.com for OEE  
+- antoine.fercot@saint-gobain.com for PCS
 
 ## Privacy Policy
 
